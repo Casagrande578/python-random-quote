@@ -1,4 +1,5 @@
-def main():
+def primary():
+   input('press ENTER to exit')
    print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -6,6 +7,7 @@ def main():
   #f.close()
 
   #print(quotes)
-
+ 
+ 
 if __name__== "__main__":
-  main()
+  primary()
